@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Solar Alarm</string>
+    <string name="openweathermap_api_key">YOUR_OPENWEATHERMAP_API_KEY</string>
+
+    <string-array name="indian_cities">
+        <item>Agartala, TR</item>
+        <item>Aizawl, MZ</item>
+        <item>Amravati, AP</item>
+        <item>Bengaluru, KA</item>
+        <item>Bhopal, MP</item>
+        <item>Bhubaneshwar, OD</item>
+        <item>Chandigarh, CH</item>
+        <item>Chennai, TN</item>
+        <item>Daman, DD</item>
+        <item>DehraDun, UK</item>
+        <item>Delhi, DL</item>
+        <item>Dispur, AS</item>
+        <item>GandhiNagar, GJ</item>
+        <item>Gangtok, SK</item>
+        <item>Hyderabad, TS</item>
+        <item>Imphal, MN</item>
+        <item>Itanagar, AR</item>
+        <item>Jaipur, RJ</item>
+        <item>Jammu, JK</item>
+        <item>Kavaratti, LD</item>
+        <item>Kohima, NL</item>
+        <item>Kolkata, WB</item>
+        <item>Leh, LA</item>
+        <item>Lucknow, UP</item>
+        <item>Mumbai, MH</item>
+        <item>Nagpur, MH</item>
+        <item>Panaji, GA</item>
+        <item>Patna, BR</item>
+        <item>Pondicherry, PY</item>
+        <item>Port Blair, AN</item>
+        <item>Raipur, CG</item>
+        <item>Ranchi, JH</item>
+        <item>Shillong, ML</item>
+        <item>Shimla, HP</item>
+        <item>Srinagar, JK</item>
+        <item>Thiruvananthapuram, KL</item>
+    </string-array>
+    <string name="channel_name">Sunrise Alarm Notifications</string>
+    <string name="channel_description">Notifications for the Sunrise Alarm.</string>
+</resources>
